@@ -1,6 +1,5 @@
 # <b>😉 Hey Listen 🤗</b>
  <img style="border-radius: 50%; text-align:center;" src="./images/wallpaper_perfil_nogame_nolife.png" alt=""/>
- <a href="https://www.antoniogally.tk/#/">
  
 --- 
  <p> Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science student and am very interested in Artificial Intelligence.</p>
