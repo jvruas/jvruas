@@ -1,4 +1,4 @@
-# <b>😉 Hey Listen, Welcome to my Profile 🤗</b>
+# <b>😉 Welcome to my Profile 🤗</b>
  <img style="border-radius: 50%; text-align:center;" src="./images/wallpaper_perfil_nogame_nolife.png" alt=""/>
  
 --- 
