@@ -1,5 +1,5 @@
 # <b>😉 Hey Listen 🤗</b>
- <img style="border-radius: 50%; text-align:center;" src="https://avatars.githubusercontent.com/u/68209906?s=400&u=9aff0928539caef8c416bd5af1fea76714ac8fb6&v=4" width="800px;" alt=""/>
+ <img style="border-radius: 50%; text-align:center;" src="./images/wallpaper_perfil_nogame_nolife.png" alt=""/>
  <a href="https://www.antoniogally.tk/#/">
  
 --- 
