@@ -6,7 +6,7 @@
 - I consider myself a person who loves to learn different content in general and am willing to face new challenges.
 
 ## About
-- 📍 From Brazil in São Paulo (SP).
-- 👨‍💻 Student of Computer Science.
-- 🎮 Hobbies: Watch Movies and Animes, Play Video Games, Create My Own Side Projects.
+- 📍 From Brazil in São Paulo (SP)
+- 👨‍💻 Student of Computer Science
+- 🎮 Hobbies: Watch Movies and Animes, Play Video Games, Create My Own Side Projects
 ---
