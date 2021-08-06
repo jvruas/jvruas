@@ -8,5 +8,5 @@
 ## About
 - 📍 From Brazil in São Paulo (SP)
 - 👨‍💻 Student of Computer Science
-- 🎮 Hobbies: Watch Movies and Animes, Play Video Games, Create My Own Side Projects and Sleep.
+- 🎮 Hobbies: Watch Movies and Animes, Play Video Games, Create My Own Side Projects.
 ---
