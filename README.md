@@ -1,8 +1,8 @@
 # <b>😉 Welcome to my Profile 🤗</b>
 
- <img style="border-radius: 50%; text-align:center;" src="./images/cover.jpg" alt=""/>
+ <img style="border-radius: 50%; text-align:center;" src="./images/cover_name.jpg" alt=""/>
  
---- 
+---
 
  <p> Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science student and am very interested in Artificial Intelligence.</p>
 - I consider myself a person who loves to learn different content in general and am willing to face new challenges.
