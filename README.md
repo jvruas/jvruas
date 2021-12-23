@@ -1,6 +1,6 @@
 # <b>😉 Welcome to my Profile 🤗</b>
 
- <img style="border-radius: 50%; text-align:center;" src="./images/cover_name.jpg" alt=""/>
+ <img style="border-radius: 50%; text-align:center;" src="./images/cover.jpg" alt=""/>
  
 ---
 
