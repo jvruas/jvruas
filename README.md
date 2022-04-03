@@ -4,8 +4,8 @@
  
 ---
 
- <p> Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science student and am very interested in Artificial Intelligence.</p>
-- I consider myself a person who loves to learn different content in general and am willing to face new challenges.
+<p> Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science student and I am very interested in Data Science and Artificial Intelligence.</p>
+<p>"I consider myself a person who loves to learn different content in general and I am willing to face new challenges".</p>
 
 ## About
 
