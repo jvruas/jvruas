@@ -75,3 +75,6 @@ Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science 
 	  <img widht="50%" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvruas&hide=html&title_color=D8A52C&text_color=8DBF7B&icon_color=a9fef7&bg_color=282828&layout=compact" />
 	</a>
 </p>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=jvruas&style=plastic&label=Views"><img>
+</p>
