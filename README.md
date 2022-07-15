@@ -3,10 +3,6 @@
 <p align="right">
   <a href="https://www.linkedin.com/in/jvruas/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://outlook.live.com/mail/0/deeplink/compose?mailtouri=mailto%3Ajvruas.contato%40outlook.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook E-mail" style="vertical-align:top; margin:4px">
-  </a>
 </p>
 
 ## Whoami ☕
