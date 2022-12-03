@@ -6,7 +6,7 @@
 </p>
 
 ## Whoami ☕
-Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science student and I am very interested in Data Science and Artificial Intelligence.
+Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science student and I am very interested in Data Engineering and Data Science.
 
 "I consider myself a person who loves to learn different content in general and I am willing to face new challenges".
 
