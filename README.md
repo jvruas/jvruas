@@ -12,7 +12,7 @@ Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science 
 
 ## About
 
--   📍 From Brazil, São Paulo
+-   📍 From Osasco, São Paulo, Brasil
 -   👨‍💻 Student of Computer Science
 -   🎮 Hobbies: Watch Movies and Animes, Play Video Games, Create My Own Side Projects
 -   💪 Personal Strengths: Learner, Restorative, Ideation, Input, Analytical
