@@ -33,7 +33,7 @@ Hi! I'm João Victor Ruas Araujo from Brazil. I am currently a Computer Science 
 <a href="https://www.mysql.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="vertical-align:top; margin:6px 4px">
 </a>
-<a href="https://www.microsoft.com/pt-br/sql-server" target="_blank" style="text-decoration: none;">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="vertical-align:top; margin:6px 4px">
 </a>
 
